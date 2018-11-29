@@ -1,6 +1,6 @@
 # Simple Node - Express
  - simple node.js express example to display user details
- - display user data from data.json file
+ - fetch user data from data.json file
  
 Installation
 ----
