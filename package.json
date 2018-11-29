@@ -6,9 +6,9 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": ["ismailvtl", "node", "express", "api"],
+    "author": "Ismail Vittal",
+    "license": "MIT",
     "dependencies": {
         "express": "^4.16.4"
     }
